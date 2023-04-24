@@ -6,6 +6,7 @@
         officia eos explicabo quia! Molestiae tempore explicabo consequuntur veniam voluptatibus eum quisquam facere
         doloremque repellat.</p>
     <div>{{ data }}</div>
+    <h3>HOORAY!!</h3>
 </template>
 
 <script setup>
